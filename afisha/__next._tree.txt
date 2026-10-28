@@ -1,4 +1,4 @@
-:HL["/chel-go-demo/_next/static/css/bd9cb2dccf82567d.css","style"]
+:HL["/chel-go-demo/_next/static/chunks/3sqjbvyc3q7bq.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":{"n":"variant","t":"d","k":"afisha","s":["_not-found","_global-error","booking-demo","organizer"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"pGotsUfSDi8Zg8C6bmjDj","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+1:[["children",{"s":{"n":"variant","t":"d","k":"afisha","s":["booking-demo","organizer"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"aSSdRKF80hYFxVCg8reQm","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

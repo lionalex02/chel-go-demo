@@ -1,3 +1,3 @@
-:HL["/chel-go-demo/_next/static/css/bd9cb2dccf82567d.css","style"]
+:HL["/chel-go-demo/_next/static/chunks/3sqjbvyc3q7bq.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"pGotsUfSDi8Zg8C6bmjDj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aSSdRKF80hYFxVCg8reQm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
